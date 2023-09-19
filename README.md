@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hello, I'm Veysel 👋
 
 - 🔭 I’m currently working on mobile programming
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: veyselustuntas1@gmail.com
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/vustuntas) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=VeyselUstuntas&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeyselUstuntas&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<br>
+<h2 align="left">To Contact Me</h2>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vustuntas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vustuntas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veyselustuntas" height="30" width="40" /></a>
+<a href="https://instagram.com/vustuntas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veyselustuntas" height="30" width="40" /></a>
+</p>

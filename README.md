@@ -6,7 +6,7 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=VeyselUstuntas&show_icons=true&theme=tokyonight) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VeyselUstuntas)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VeyselUstuntas&theme=dark&hide_border=false&border_radius=4.5)](https://git.io/streak-stats)
 <br>
 <h2 align="left">To Contact Me</h2>
 <p align="left">
